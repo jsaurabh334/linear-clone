@@ -11,7 +11,7 @@ const Section2 = () => {
   return (
     <div className="py-52">
       <LampEffect color="#352a4f">
-        Issue tracking <br /> you'll enjoy using
+        Issue tracking <br /> you&apos;ll enjoy using
       </LampEffect>
       <div className="container-lg">
         <div className="relative z-10 mx-auto -mt-20 aspect-[777/266] overflow-hidden rounded-[14px] lg:w-[777px]">

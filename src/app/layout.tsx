@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Linear - Prajil",
+  title: "Trading arena",
   description: "Linear clone developed by Prajil",
 };
 

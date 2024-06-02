@@ -105,11 +105,11 @@ const Footer = () => {
       <h1 className="mx-auto mb-5 mt-16 text-sm font-light">
         Developed with ❤️‍🔥{" "}
         <Link
-          href={"https://prajilk.vercel.app"}
+          href={"#"}
           target="_blank"
           className="font-bold"
         >
-          Prajil
+          bitcode softwares 
         </Link>
       </h1>
     </footer>

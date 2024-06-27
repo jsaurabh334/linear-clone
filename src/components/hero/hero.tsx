@@ -29,7 +29,8 @@ const Hero = () => {
           }}
           className="flex h-7 items-center gap-2 rounded-full border border-white/5 bg-white/10 px-3 text-xs font-medium leading-7 backdrop-blur-md"
         >
-          Linear Mobile v0.1 <ChevronRight />{" "}
+          {/* Linear Mobile v0.1 <ChevronRight /> */}
+          {" "}
         </motion.button>
         <motion.h1
           initial="initial"

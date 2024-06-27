@@ -16,10 +16,10 @@ const Partners = () => {
         <div className="flex flex-col items-center py-5">
             <p className="my-12 text-center text-[18px] max-w-xs lg:max-w-max lg:text-[22px] leading-[1.3]">
                 <span className="text-[#b4bcd0]">
-                    Powering the world&apos;s best product teams.
+                    Adapt like a chameleon stay evergreen in the market
                 </span>
                 <br className="hidden lg:block" />
-                <span> From next-gen startups to established enterprises.</span>
+                {/* <span> From next-gen startups to established enterprises.</span> */}
             </p>
 
             <div className="grid grid-cols-2 max-w-xs lg:max-w-max lg:grid-cols-6 [row-gap:32px] [column-gap:24px]">

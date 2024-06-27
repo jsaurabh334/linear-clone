@@ -65,12 +65,11 @@ const BuiltForYourKeyboard = () => {
           </button>
         ))}
       </div>
-      <h3 className="text-center text-[26px] leading-[1.2] tracking-[-0.01em]">
-        Built for your keyboard
+      <h3 className="text-center text-[26px] leading-[1.2] tracking-[-0.01em] uppercase">
+        shielding you from manupulations
       </h3>
       <p className="mt-4 max-w-[480px] text-balance text-center leading-[1.3] text-[#b4bcd0]">
-        Fly through your tasks with rapid-fire keyboard shortcuts for
-        everything. Literally everything.
+        guarding your confidence defending you against market manipulating 
       </p>
     </Card>
   );

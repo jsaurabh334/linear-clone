@@ -47,7 +47,7 @@ const Hero = () => {
               "linear-gradient(to right bottom, rgb(255, 255, 255) 30%, rgba(255, 255, 255, 0.38)) text",
           }}
         >
-          Linear is a better way to build products
+          unlease your inner financial warrior
         </motion.h1>
         <motion.p
           initial="initial"
@@ -59,10 +59,9 @@ const Hero = () => {
             ease: "easeInOut",
             delay: 0.4,
           }}
-          className="mb-12 text-balance text-lg font-normal leading-[1.3] text-[#b4bcd0] lg:text-[22px]"
+          className="mb-12 text-balance capitalize text-lg font-normal leading-[1.3] text-[#b4bcd0] lg:text-[22px]"
         >
-          Meet the new standard for modern software development. Streamline
-          issues, sprints, and product roadmaps.
+         trusted by over 5000+ traders
         </motion.p>
         <motion.button
           initial="initial"

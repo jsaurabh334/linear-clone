@@ -8,7 +8,7 @@ const MeetYourCommandLine = () => {
   return (
     <Card className="col-[auto/span_4] justify-start">
       <h3 className="text-center text-[26px] leading-[1.2] tracking-[-0.01em]">
-        Meet your command line
+        lets connect
       </h3>
       <p className="mt-4 max-w-[480px] text-balance text-center leading-[1.3] text-[#b4bcd0]">
         Complete any action in seconds with the global command menu.

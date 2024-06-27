@@ -8,12 +8,12 @@ import Section3 from "@/components/section3/section3";
 import Section4 from "@/components/section4/section4";
 import Section5 from "@/components/section5/section5";
 import Section6 from "@/components/section6/section6";
-import SmoothScroll from "@/components/smooth-scroll";
+// import SmoothScroll from "@/components/smooth-scroll";
 import Particles from "@/lib/svgs/particles";
 
 export default function Home() {
   return (
-    <SmoothScroll>
+    <>
       <Nav />
       <Hero />
       <Partners />
@@ -30,6 +30,6 @@ export default function Home() {
       </div>
       <Section6 />
       <Footer />
-    </SmoothScroll>
+    </>
   );
 }

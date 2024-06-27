@@ -22,12 +22,13 @@ const Section1 = () => {
       }}
     >
       <div className="container-lg mb-5 text-center">
-        <h1 className="text-4xl leading-none tracking-tight lg:text-[56px]">
-          Unlike any tool <br /> you&apos;ve used before
+        <h1 className="text-4xl leading-none tracking-tight lg:text-[56px] capitalize">
+          till now you&apos;ve learn <br /> everything is false
         </h1>
         <p className="mx-auto mb-12 mt-6 max-w-2xl text-balance text-[18px] leading-[1.3] text-[#b4bcd0] lg:text-[22px]">
-          Designed to the last pixel and engineered with unforgiving precision,
-          Linear combines UI elegance with world-class performance.
+          {/* Designed to the last pixel and engineered with unforgiving precision,
+          Linear combines UI elegance with world-class performance. */}
+          : unveiling the truth about trading
         </p>
 
         <div className="grid [grid-gap:24px] lg:grid-cols-6">
